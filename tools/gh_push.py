@@ -11,13 +11,13 @@ import os
 import sys
 import urllib.request
 
-sys.path.insert(0, '/opt/hatch/skills/skill-creator/bin')
+sys.path.insert(0, '/opt/muse/skills/custom-connector-setup/bin')
 from dynamic_credentials import dynamic_credential_entry
 
 OWNER = 'pkm365'
 REPO = 'ff7-rebirth-guide'
 BRANCH = 'main'
-ROOT = '/tmp/vp'
+ROOT = os.environ.get('FF7_SITE_DIR', os.path.expanduser('~/workspace/ff7-guide/site'))
 
 SKIP_DIRS = {'node_modules', '.git', 'dist', 'cache', '_sections', '__pycache__'}
 SKIP_FILES = {'.DS_Store', 'convert.py'}
@@ -31,8 +31,9 @@ def get_token():
     return surr
 
 
-def api(method, path, data=None, retries=3):
+def api(method, path, data=None, retries=5):
     import time
+    import http.client
     last = None
     for attempt in range(retries):
         try:
@@ -53,6 +54,13 @@ def api(method, path, data=None, retries=3):
             last = e
             if e.code in (500, 502, 503) and attempt < retries - 1:
                 time.sleep(2 * (attempt + 1))
+                continue
+            raise
+        except (http.client.RemoteDisconnected, http.client.IncompleteRead,
+                ConnectionError, TimeoutError) as e:
+            last = e
+            if attempt < retries - 1:
+                time.sleep(3 * (attempt + 1))
                 continue
             raise
     raise last

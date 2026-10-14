@@ -37,6 +37,8 @@ features:
     link: /builds
 ---
 
+<ProgressBanner />
+
 ## 本站使用说明
 
 - 所有英文术语都写成"中文名（英文）"的形式，**鼠标悬停或点一下**就能看到一句话解释；完整版见[术语表](/glossary)。

@@ -12,7 +12,8 @@ export default defineConfig({
       { text: '新手入门', link: '/start' },
       { text: '主线流程', link: '/chapters/' },
       { text: 'Boss 图鉴', link: '/boss' },
-      { text: '术语表', link: '/glossary' }
+      { text: '术语表', link: '/glossary' },
+      { text: '设置', link: '/settings' }
     ],
 
     sidebar: [

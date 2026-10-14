@@ -1,0 +1,109 @@
+{
+ "updated_at": "2026-10-15T07:09:18+08:00",
+ "steamid": "76561198289655315",
+ "persona": "FINAL FANTASY VII REBIRTH",
+ "playtime_minutes": 448,
+ "achievements": {
+  "total": 61,
+  "unlocked": 2
+ },
+ "current_chapter": 1,
+ "chapters": [
+  {
+   "n": 1,
+   "title": "坠落的英雄",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 2,
+   "title": "真正的开始",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 3,
+   "title": "追踪黑斗篷",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 4,
+   "title": "颁发总裁奖",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 5,
+   "title": "杰诺瓦再临",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 6,
+   "title": "片刻假期",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 7,
+   "title": "魔晄的代价",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 8,
+   "title": "逃离乐园",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 9,
+   "title": "星球的悲鸣",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 10,
+   "title": "星殒溪谷",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 11,
+   "title": "劣化的神罗战士",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 12,
+   "title": "充满回忆的约会",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 13,
+   "title": "约定之时",
+   "done": false,
+   "unlocktime": null
+  },
+  {
+   "n": 14,
+   "title": "再结合",
+   "done": false,
+   "unlocktime": null
+  }
+ ],
+ "recent": [
+  {
+   "api": "ACH_15",
+   "unlocktime": 1791987300,
+   "unlocktime_str": "2026-10-14 22:15"
+  },
+  {
+   "api": "ACH_18",
+   "unlocktime": 1791987280,
+   "unlocktime_str": "2026-10-14 22:14"
+  }
+ ]
+}

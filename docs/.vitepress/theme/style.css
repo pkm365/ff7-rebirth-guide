@@ -36,3 +36,16 @@
 .term-tip.term-open .term-tip-box {
   display: block;
 }
+
+/* 侧边栏"进行中"章节徽标 */
+.badge-current {
+  display: inline-block;
+  margin-left: 8px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  padding: 1px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
