@@ -1,0 +1,38 @@
+/* 术语悬停/点击解释 */
+.term-tip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dashed var(--vp-c-brand-1);
+  cursor: help;
+  outline: none;
+}
+.term-tip-text {
+  color: inherit;
+}
+.term-tip:hover .term-tip-text,
+.term-tip:focus-visible .term-tip-text {
+  color: var(--vp-c-brand-1);
+}
+.term-tip-box {
+  display: none;
+  position: absolute;
+  z-index: 100;
+  left: 0;
+  bottom: 130%;
+  width: max-content;
+  max-width: min(320px, calc(100vw - 48px));
+  padding: 10px 12px;
+  font-size: 13px;
+  line-height: 1.6;
+  white-space: normal;
+  color: var(--vp-c-text-1);
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+.term-tip:hover .term-tip-box,
+.term-tip:focus-visible .term-tip-box,
+.term-tip.term-open .term-tip-box {
+  display: block;
+}
