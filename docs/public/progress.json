@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:09:18+08:00",
+ "updated_at": "2026-10-15T09:07:08+08:00",
  "steamid": "76561198289655315",
  "persona": "FINAL FANTASY VII REBIRTH",
  "playtime_minutes": 448,
@@ -103,6 +103,16 @@
   {
    "api": "ACH_18",
    "unlocktime": 1791987280,
+   "unlocktime_str": "2026-10-14 22:14"
+  }
+ ],
+ "unlocked_all": [
+  {
+   "api": "ACH_15",
+   "unlocktime_str": "2026-10-14 22:15"
+  },
+  {
+   "api": "ACH_18",
    "unlocktime_str": "2026-10-14 22:14"
   }
  ]

@@ -3,6 +3,7 @@ import { onMounted, watch, nextTick } from 'vue'
 import { useRoute, withBase } from 'vitepress'
 import terms from '../terms.json'
 import ProgressBanner from './components/ProgressBanner.vue'
+import AchievementGallery from './components/AchievementGallery.vue'
 import './style.css'
 
 interface Term { en: string; cn: string; desc: string }
@@ -57,6 +58,7 @@ export default {
   extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component('ProgressBanner', ProgressBanner)
+    app.component('AchievementGallery', AchievementGallery)
   },
   setup() {
     const route = useRoute()
