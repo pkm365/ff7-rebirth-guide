@@ -4,6 +4,8 @@ export default defineConfig({
   title: 'FF7 重生图文攻略',
   description: '《最终幻想7：重生》自制中文图文攻略——按实际游戏进度持续更新',
   lang: 'zh-CN',
+  // 深色魔晄主题是本站的视觉语言，默认深色
+  appearance: 'dark',
   // 项目页地址：https://pkm365.github.io/ff7-rebirth-guide/
   base: '/ff7-rebirth-guide/',
 
