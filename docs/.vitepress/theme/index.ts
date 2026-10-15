@@ -5,6 +5,7 @@ import terms from '../terms.json'
 import ProgressBanner from './components/ProgressBanner.vue'
 import AchievementGallery from './components/AchievementGallery.vue'
 import CardAlbum from './components/CardAlbum.vue'
+import SteamCardAlbum from './components/SteamCardAlbum.vue'
 import './style.css'
 
 interface Term { en: string; cn: string; desc: string }
@@ -61,6 +62,7 @@ export default {
     app.component('ProgressBanner', ProgressBanner)
     app.component('AchievementGallery', AchievementGallery)
     app.component('CardAlbum', CardAlbum)
+    app.component('SteamCardAlbum', SteamCardAlbum)
   },
   setup() {
     const route = useRoute()

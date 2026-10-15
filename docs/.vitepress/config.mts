@@ -72,6 +72,7 @@ export default defineConfig({
         text: '通关',
         items: [
           { text: '全成就路线', link: '/trophy' },
+          { text: 'Steam 集换式卡牌', link: '/steam-cards' },
           { text: '好感度与约会', link: '/bond' }
         ]
       },
