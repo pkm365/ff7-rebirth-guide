@@ -1,0 +1,872 @@
+[
+ {
+  "id": 1,
+  "name": "Security Officer",
+  "img": "/cards/qb-001.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 2,
+  "name": "Riot Trooper",
+  "img": "/cards/qb-002.jpg",
+  "location": "QB Booster Pack: Suppressive Strikers"
+ },
+ {
+  "id": 3,
+  "name": "Grenadier",
+  "img": "/cards/qb-003.jpg",
+  "location": "QB Booster Pack: Ruffians"
+ },
+ {
+  "id": 4,
+  "name": "J-Unit Sweeper",
+  "img": "/cards/qb-004.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 5,
+  "name": "Queen Bee",
+  "img": "/cards/qb-005.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 6,
+  "name": "Toxirat",
+  "img": "/cards/qb-006.jpg",
+  "location": "QB Booster Pack: Suppressive Strikers"
+ },
+ {
+  "id": 7,
+  "name": "Levrikon",
+  "img": "/cards/qb-007.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 8,
+  "name": "Grasslands Wolf",
+  "img": "/cards/qb-008.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 9,
+  "name": "Mu",
+  "img": "/cards/qb-009.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 10,
+  "name": "Mandragora",
+  "img": "/cards/qb-010.jpg",
+  "location": "QB Booster Pack: Ruffians"
+ },
+ {
+  "id": 11,
+  "name": "Elphadunk",
+  "img": "/cards/qb-011.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 12,
+  "name": "Cactuar",
+  "img": "/cards/qb-012.jpg",
+  "location": "Defeat Nene in Kalm (Ch2)"
+ },
+ {
+  "id": 13,
+  "name": "Crystalline Crab",
+  "img": "/cards/qb-013.jpg",
+  "location": "Defeat Ned in Kalm (Ch2)"
+ },
+ {
+  "id": 14,
+  "name": "Quetzalcoatl",
+  "img": "/cards/qb-014.jpg",
+  "location": "QB Booster Pack: Ruffians"
+ },
+ {
+  "id": 15,
+  "name": "Zu",
+  "img": "/cards/qb-015.jpg",
+  "location": "QB Booster Pack: Ruffians"
+ },
+ {
+  "id": 16,
+  "name": "Devil Rider",
+  "img": "/cards/qb-016.jpg",
+  "location": "QB Booster Pack: Suppressive Strikers"
+ },
+ {
+  "id": 17,
+  "name": "Screamer",
+  "img": "/cards/qb-017.jpg",
+  "location": "Defeat Zahira in Kalm (Ch2)"
+ },
+ {
+  "id": 18,
+  "name": "Flan",
+  "img": "/cards/qb-018.jpg",
+  "location": "QB Booster Pack: Suppressive Strikers"
+ },
+ {
+  "id": 19,
+  "name": "Crawler",
+  "img": "/cards/qb-019.jpg",
+  "location": "QB Booster Pack: Weird & Wicked"
+ },
+ {
+  "id": 20,
+  "name": "Archdragon",
+  "img": "/cards/qb-020.jpg",
+  "location": "QB Booster Pack: Weird & Wicked"
+ },
+ {
+  "id": 21,
+  "name": "Ogre",
+  "img": "/cards/qb-021.jpg",
+  "location": "Defeat The Moore Twins in Under Junon (Ch4)"
+ },
+ {
+  "id": 22,
+  "name": "Deathwheel",
+  "img": "/cards/qb-022.jpg",
+  "location": "QB Booster Pack: Shut Up 'n' Drive"
+ },
+ {
+  "id": 23,
+  "name": "Fleetwing",
+  "img": "/cards/qb-023.jpg",
+  "location": "Card Carnival Round 1 (Ch6)"
+ },
+ {
+  "id": 24,
+  "name": "Zemzelett",
+  "img": "/cards/qb-024.jpg",
+  "location": "Defeat Zogan in Under Junon (Ch4)"
+ },
+ {
+  "id": 25,
+  "name": "Ignilisk",
+  "img": "/cards/qb-025.jpg",
+  "location": "QB Booster Pack: Shut Up 'n' Drive"
+ },
+ {
+  "id": 26,
+  "name": "Capparwire",
+  "img": "/cards/qb-026.jpg",
+  "location": "QB Booster Pack: Weird & Wicked"
+ },
+ {
+  "id": 27,
+  "name": "Mindflayer",
+  "img": "/cards/qb-027.jpg",
+  "location": "Defeat Michaela in Crow's Nest (Ch4)"
+ },
+ {
+  "id": 28,
+  "name": "Scrutineye",
+  "img": "/cards/qb-028.jpg",
+  "location": "QB Booster Pack: Shut Up 'n' Drive"
+ },
+ {
+  "id": 29,
+  "name": "Hell Rider II",
+  "img": "/cards/qb-029.jpg",
+  "location": "QB Booster Pack: Shut Up 'n' Drive"
+ },
+ {
+  "id": 30,
+  "name": "Flametrooper",
+  "img": "/cards/qb-030.jpg",
+  "location": "Defeat Neil in Crow's Nest (Ch4)"
+ },
+ {
+  "id": 31,
+  "name": "Spearhawk",
+  "img": "/cards/qb-031.jpg",
+  "location": "Card Carnival 'Spears and Needles' (Ch6)"
+ },
+ {
+  "id": 32,
+  "name": "Sea Devil",
+  "img": "/cards/qb-032.jpg",
+  "location": "Card Carnival 'Sea Devil by Night' (Ch6)"
+ },
+ {
+  "id": 33,
+  "name": "Shoalopod",
+  "img": "/cards/qb-033.jpg",
+  "location": "QB Booster Pack: High Seas Horror"
+ },
+ {
+  "id": 34,
+  "name": "Crown Lance",
+  "img": "/cards/qb-034.jpg",
+  "location": "QB Booster Pack: High Seas Horror"
+ },
+ {
+  "id": 35,
+  "name": "Tonberry King",
+  "img": "/cards/qb-035.jpg",
+  "location": "Card Carnival 'A Kingly Clash' (Ch6)"
+ },
+ {
+  "id": 36,
+  "name": "Sandhog Pie",
+  "img": "/cards/qb-036.jpg",
+  "location": "QB Booster Pack: Uncanny Terrors"
+ },
+ {
+  "id": 37,
+  "name": "Bloatfloat",
+  "img": "/cards/qb-037.jpg",
+  "location": "QB Booster Pack: Uncanny Terrors"
+ },
+ {
+  "id": 38,
+  "name": "Bagnadrana",
+  "img": "/cards/qb-038.jpg",
+  "location": "Defeat Navalan in North Corel (Ch9)"
+ },
+ {
+  "id": 39,
+  "name": "Cockatrice",
+  "img": "/cards/qb-039.jpg",
+  "location": "Defeat Rolf in North Corel (Ch7)"
+ },
+ {
+  "id": 40,
+  "name": "Heatseeker",
+  "img": "/cards/qb-040.jpg",
+  "location": "QB Booster Pack: Uncanny Terrors"
+ },
+ {
+  "id": 41,
+  "name": "Bomb",
+  "img": "/cards/qb-041.jpg",
+  "location": "Defeat Biff in North Corel (Ch7)"
+ },
+ {
+  "id": 42,
+  "name": "Thug",
+  "img": "/cards/qb-042.jpg",
+  "location": "Defeat Dax in The Dustbowl (Ch8)"
+ },
+ {
+  "id": 43,
+  "name": "Death Claw",
+  "img": "/cards/qb-043.jpg",
+  "location": "Defeat Mary in The Dustbowl (Ch8)"
+ },
+ {
+  "id": 44,
+  "name": "Landworm",
+  "img": "/cards/qb-044.jpg",
+  "location": "QB Booster Pack: Heavy Hitters"
+ },
+ {
+  "id": 45,
+  "name": "Sandspitter",
+  "img": "/cards/qb-045.jpg",
+  "location": "QB Booster Pack: Heavy Hitters"
+ },
+ {
+  "id": 46,
+  "name": "Chimera",
+  "img": "/cards/qb-046.jpg",
+  "location": "QB Booster Pack: Heavy Hitters"
+ },
+ {
+  "id": 47,
+  "name": "Joker",
+  "img": "/cards/qb-047.jpg",
+  "location": "Defeat Pietro in The Dustbowl (Ch8)"
+ },
+ {
+  "id": 48,
+  "name": "Amphidex",
+  "img": "/cards/qb-048.jpg",
+  "location": "QB Booster Pack: Jungle Arcanum"
+ },
+ {
+  "id": 49,
+  "name": "Frightflower",
+  "img": "/cards/qb-049.jpg",
+  "location": "QB Booster Pack: Jungle Arcanum"
+ },
+ {
+  "id": 50,
+  "name": "Gagighandi",
+  "img": "/cards/qb-050.jpg",
+  "location": "QB Booster Pack: Jungle Arcanum"
+ },
+ {
+  "id": 51,
+  "name": "Insectoid Chimera",
+  "img": "/cards/qb-051.jpg",
+  "location": "Defeat Robin in Cosmo Canyon (Ch10)"
+ },
+ {
+  "id": 52,
+  "name": "Gigantoad",
+  "img": "/cards/qb-052.jpg",
+  "location": "QB Booster Pack: Jungle Arcanum"
+ },
+ {
+  "id": 53,
+  "name": "Maloceros",
+  "img": "/cards/qb-053.jpg",
+  "location": "Defeat Regina in Gongaga (Ch10)"
+ },
+ {
+  "id": 54,
+  "name": "Grandhorn",
+  "img": "/cards/qb-054.jpg",
+  "location": "QB Booster Pack: Heavy Hitters"
+ },
+ {
+  "id": 55,
+  "name": "Great Malboro",
+  "img": "/cards/qb-055.jpg",
+  "location": "Defeat Zhijun in Gongaga (Ch9)"
+ },
+ {
+  "id": 56,
+  "name": "Grangalan",
+  "img": "/cards/qb-056.jpg",
+  "location": "Defeat Wize 3.0 in The Dustbowl (Ch10)"
+ },
+ {
+  "id": 57,
+  "name": "Amalgam",
+  "img": "/cards/qb-057.jpg",
+  "location": "QB Booster Pack: Chimerical Creatures"
+ },
+ {
+  "id": 58,
+  "name": "Skeeskee",
+  "img": "/cards/qb-058.jpg",
+  "location": "QB Booster Pack: Chimerical Creatures"
+ },
+ {
+  "id": 59,
+  "name": "Griffon",
+  "img": "/cards/qb-059.jpg",
+  "location": "Defeat Oscar in Gongaga (Ch9)"
+ },
+ {
+  "id": 60,
+  "name": "Basilisk",
+  "img": "/cards/qb-060.jpg",
+  "location": "QB Booster Pack: Chimerical Creatures"
+ },
+ {
+  "id": 61,
+  "name": "Reapertail",
+  "img": "/cards/qb-061.jpg",
+  "location": "Defeat Bernard in Cosmo Canyon (Ch10)"
+ },
+ {
+  "id": 62,
+  "name": "Jabberwock",
+  "img": "/cards/qb-062.jpg",
+  "location": "QB Booster Pack: Stranger than Fiction"
+ },
+ {
+  "id": 63,
+  "name": "Desert Sahagin",
+  "img": "/cards/qb-063.jpg",
+  "location": "QB Booster Pack: Stranger than Fiction"
+ },
+ {
+  "id": 64,
+  "name": "Cavestalker",
+  "img": "/cards/qb-064.jpg",
+  "location": "QB Booster Pack: Stranger than Fiction"
+ },
+ {
+  "id": 65,
+  "name": "Stone Golem",
+  "img": "/cards/qb-065.jpg",
+  "location": "QB Booster Pack: Chimerical Creatures"
+ },
+ {
+  "id": 66,
+  "name": "Two Face",
+  "img": "/cards/qb-066.jpg",
+  "location": "Defeat Ka'dina in Cosmo Canyon (Ch10)"
+ },
+ {
+  "id": 67,
+  "name": "Gi Specter",
+  "img": "/cards/qb-067.jpg",
+  "location": "QB Booster Pack: Stranger than Fiction"
+ },
+ {
+  "id": 68,
+  "name": "Valron",
+  "img": "/cards/qb-068.jpg",
+  "location": "Defeat Turner in Nibelheim (Ch11)"
+ },
+ {
+  "id": 69,
+  "name": "Disgorgon",
+  "img": "/cards/qb-069.jpg",
+  "location": "QB Booster Pack: Prehistoric Beasts"
+ },
+ {
+  "id": 70,
+  "name": "Dragon",
+  "img": "/cards/qb-070.jpg",
+  "location": "QB Booster Pack: Prehistoric Beasts"
+ },
+ {
+  "id": 71,
+  "name": "Twin Brain",
+  "img": "/cards/qb-071.jpg",
+  "location": "Defeat Dale in Nibelheim (Ch11)"
+ },
+ {
+  "id": 72,
+  "name": "Black Bat",
+  "img": "/cards/qb-072.jpg",
+  "location": "QB Booster Pack: Carnival of Carnage"
+ },
+ {
+  "id": 73,
+  "name": "Bahba Velamyu",
+  "img": "/cards/qb-073.jpg",
+  "location": "QB Booster Pack: Prehistoric Beasts"
+ },
+ {
+  "id": 74,
+  "name": "Rictus",
+  "img": "/cards/qb-074.jpg",
+  "location": "Defeat Dokaccha in Costa del Sol (Ch12)"
+ },
+ {
+  "id": 75,
+  "name": "Adjudicator",
+  "img": "/cards/qb-075.jpg",
+  "location": "QB Booster Pack: Carnival of Carnage"
+ },
+ {
+  "id": 76,
+  "name": "Yin & Yang",
+  "img": "/cards/qb-076.jpg",
+  "location": "QB Booster Pack: Carnival of Carnage"
+ },
+ {
+  "id": 77,
+  "name": "Diabolic Variant",
+  "img": "/cards/qb-077.jpg",
+  "location": "Defeat Riana in Costa del Sol (Ch12)"
+ },
+ {
+  "id": 78,
+  "name": "Special Forces Operator",
+  "img": "/cards/qb-078.jpg",
+  "location": "QB Booster Pack: Endgame Buddies"
+ },
+ {
+  "id": 79,
+  "name": "2-C SOLDIER Operator",
+  "img": "/cards/qb-079.jpg",
+  "location": "Defeat Maahir in Costa del Sol (Ch12)"
+ },
+ {
+  "id": 80,
+  "name": "Kelzmelzer",
+  "img": "/cards/qb-080.jpg",
+  "location": "QB Booster Pack: Ancient Stewards"
+ },
+ {
+  "id": 81,
+  "name": "Panthera Protector",
+  "img": "/cards/qb-081.jpg",
+  "location": "QB Booster Pack: Ancient Stewards"
+ },
+ {
+  "id": 82,
+  "name": "Hecteyes",
+  "img": "/cards/qb-082.jpg",
+  "location": "QB Booster Pack: Ancient Stewards"
+ },
+ {
+  "id": 83,
+  "name": "Floating Death",
+  "img": "/cards/qb-083.jpg",
+  "location": "QB Booster Pack: Ancient Stewards"
+ },
+ {
+  "id": 84,
+  "name": "Ironclad",
+  "img": "/cards/qb-084.jpg",
+  "location": "QB Booster Pack: Chthonic Sentinels"
+ },
+ {
+  "id": 85,
+  "name": "Moss-Grown Adamantoise",
+  "img": "/cards/qb-085.jpg",
+  "location": "QB Booster Pack: Chthonic Sentinels"
+ },
+ {
+  "id": 86,
+  "name": "Cloud",
+  "img": "/cards/qb-086.jpg",
+  "location": "Card Carnival 'Collector's Card: Cloud' (Ch12)"
+ },
+ {
+  "id": 87,
+  "name": "Barret",
+  "img": "/cards/qb-087.jpg",
+  "location": "Card Carnival 'Collector's Card: Barret' (Ch12)"
+ },
+ {
+  "id": 88,
+  "name": "Tifa",
+  "img": "/cards/qb-088.jpg",
+  "location": "Card Carnival 'Collector's Card: Tifa' (Ch12)"
+ },
+ {
+  "id": 89,
+  "name": "Aerith",
+  "img": "/cards/qb-089.jpg",
+  "location": "Card Carnival 'Collector's Card: Aerith' (Ch12)"
+ },
+ {
+  "id": 90,
+  "name": "Red XIII",
+  "img": "/cards/qb-090.jpg",
+  "location": "Card Carnival 'Collector's Card: Red XIII' (Ch12)"
+ },
+ {
+  "id": 91,
+  "name": "Yuffie",
+  "img": "/cards/qb-091.jpg",
+  "location": "Card Carnival 'Collector's Card: Yuffie' (Ch12)"
+ },
+ {
+  "id": 92,
+  "name": "Cait Sith",
+  "img": "/cards/qb-092.jpg",
+  "location": "Card Carnival 'Collector's Card: Cait Sith' (Ch12)"
+ },
+ {
+  "id": 93,
+  "name": "Cid",
+  "img": "/cards/qb-093.jpg",
+  "location": "Card Carnival 'Collector's Card: Cid' (Ch12)"
+ },
+ {
+  "id": 94,
+  "name": "Vincent",
+  "img": "/cards/qb-094.jpg",
+  "location": "Card Carnival 'Collector's Card: Vincent' (Ch12)"
+ },
+ {
+  "id": 95,
+  "name": "Ifrit",
+  "img": "/cards/qb-095.jpg",
+  "location": "Queen's Blood Tournament reward"
+ },
+ {
+  "id": 96,
+  "name": "Shiva",
+  "img": "/cards/qb-096.jpg",
+  "location": "Defeat Isabelle in Under Junon (Ch4)"
+ },
+ {
+  "id": 97,
+  "name": "Ramuh",
+  "img": "/cards/qb-097.jpg",
+  "location": "Defeat Lidrehl at Gold Saucer (Ch12)"
+ },
+ {
+  "id": 98,
+  "name": "Titan",
+  "img": "/cards/qb-098.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 99,
+  "name": "Kujata",
+  "img": "/cards/qb-099.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 100,
+  "name": "Odin",
+  "img": "/cards/qb-100.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 101,
+  "name": "Phoenix",
+  "img": "/cards/qb-101.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 102,
+  "name": "Leviathan",
+  "img": "/cards/qb-102.jpg",
+  "location": "Gold Saucer 'Extreme' Challenge (Ch12)"
+ },
+ {
+  "id": 103,
+  "name": "Alexander",
+  "img": "/cards/qb-103.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 104,
+  "name": "Bahamut",
+  "img": "/cards/qb-104.jpg",
+  "location": "Gold Saucer 'Nightmare' Challenge (Ch12)"
+ },
+ {
+  "id": 105,
+  "name": "Bahamut Arisen",
+  "img": "/cards/qb-105.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 106,
+  "name": "Gilgamesh",
+  "img": "/cards/qb-106.jpg",
+  "location": "Thorin's Shop; defeat Gilgamesh (all Protorelics)"
+ },
+ {
+  "id": 107,
+  "name": "Chocobo & Moogle",
+  "img": "/cards/qb-107.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 108,
+  "name": "Fat Chocobo",
+  "img": "/cards/qb-108.jpg",
+  "location": "Thorin's Shop after 'A Rare Card Lost'"
+ },
+ {
+  "id": 109,
+  "name": "Posh Chocobo",
+  "img": "/cards/qb-109.jpg",
+  "location": "Card Carnival Round 2 (Ch6)"
+ },
+ {
+  "id": 110,
+  "name": "Moogle Trio",
+  "img": "/cards/qb-110.jpg",
+  "location": "Card Carnival Round 3 (Ch6)"
+ },
+ {
+  "id": 111,
+  "name": "Magic Pot",
+  "img": "/cards/qb-111.jpg",
+  "location": "Starting card"
+ },
+ {
+  "id": 112,
+  "name": "Materia Guardian",
+  "img": "/cards/qb-112.jpg",
+  "location": "Gold Saucer Challenge (Ch9)"
+ },
+ {
+  "id": 113,
+  "name": "Midgardsormr",
+  "img": "/cards/qb-113.jpg",
+  "location": "Defeat Cameron in Crow's Nest (Ch4)"
+ },
+ {
+  "id": 114,
+  "name": "Mythril Golem",
+  "img": "/cards/qb-114.jpg",
+  "location": "Gold Saucer Challenge (Ch8)"
+ },
+ {
+  "id": 115,
+  "name": "Terror of the Deep",
+  "img": "/cards/qb-115.jpg",
+  "location": "Queen's Blood Tournament reward"
+ },
+ {
+  "id": 116,
+  "name": "Grasptropod",
+  "img": "/cards/qb-116.jpg",
+  "location": "Gold Saucer Challenge (Ch8)"
+ },
+ {
+  "id": 117,
+  "name": "Custom Valkyrie",
+  "img": "/cards/qb-117.jpg",
+  "location": "Gold Saucer Challenge (Ch8)"
+ },
+ {
+  "id": 118,
+  "name": "Gigatrice",
+  "img": "/cards/qb-118.jpg",
+  "location": "Gold Saucer Challenge (Ch8)"
+ },
+ {
+  "id": 119,
+  "name": "Dyne",
+  "img": "/cards/qb-119.jpg",
+  "location": "Card Carnival 'One Shot, One Kill' (Ch12)"
+ },
+ {
+  "id": 120,
+  "name": "Anuran Suppressor",
+  "img": "/cards/qb-120.jpg",
+  "location": "Gold Saucer Challenge (Ch12)"
+ },
+ {
+  "id": 121,
+  "name": "Specimen H1024",
+  "img": "/cards/qb-121.jpg",
+  "location": "Gold Saucer Challenge (Ch12)"
+ },
+ {
+  "id": 122,
+  "name": "Crimson Mare Mk. II",
+  "img": "/cards/qb-122.jpg",
+  "location": "Gold Saucer Challenge (Ch12)"
+ },
+ {
+  "id": 123,
+  "name": "Gi Nattak",
+  "img": "/cards/qb-123.jpg",
+  "location": "Card Carnival 'Curse of the Gi' (Ch12)"
+ },
+ {
+  "id": 124,
+  "name": "Forgotten Specimen",
+  "img": "/cards/qb-124.jpg",
+  "location": "Gold Saucer Challenge (Ch12)"
+ },
+ {
+  "id": 125,
+  "name": "Don Corneo & Abzu",
+  "img": "/cards/qb-125.jpg",
+  "location": "QB Booster Pack: Endgame Buddies"
+ },
+ {
+  "id": 126,
+  "name": "Red Dragon",
+  "img": "/cards/qb-126.jpg",
+  "location": "QB Booster Pack: Chthonic Sentinels"
+ },
+ {
+  "id": 127,
+  "name": "Demon Gate",
+  "img": "/cards/qb-127.jpg",
+  "location": "QB Booster Pack: Chthonic Sentinels"
+ },
+ {
+  "id": 128,
+  "name": "Reno",
+  "img": "/cards/qb-128.jpg",
+  "location": "QB Booster Pack: The Turks"
+ },
+ {
+  "id": 129,
+  "name": "Rude",
+  "img": "/cards/qb-129.jpg",
+  "location": "QB Booster Pack: The Turks"
+ },
+ {
+  "id": 130,
+  "name": "Elena",
+  "img": "/cards/qb-130.jpg",
+  "location": "QB Booster Pack: The Turks"
+ },
+ {
+  "id": 131,
+  "name": "Tseng",
+  "img": "/cards/qb-131.jpg",
+  "location": "QB Booster Pack: The Turks"
+ },
+ {
+  "id": 132,
+  "name": "Rufus",
+  "img": "/cards/qb-132.jpg",
+  "location": "Gold Saucer Challenge (Ch12)"
+ },
+ {
+  "id": 133,
+  "name": "Roche",
+  "img": "/cards/qb-133.jpg",
+  "location": "QB Booster Pack: Endgame Buddies"
+ },
+ {
+  "id": 134,
+  "name": "J-Squad",
+  "img": "/cards/qb-134.jpg",
+  "location": "Side Mission 'The Saga of the Seaside Inn' (Ch9)"
+ },
+ {
+  "id": 135,
+  "name": "Chocobo Jockey",
+  "img": "/cards/qb-135.jpg",
+  "location": "Gold Saucer GP Exchange (Ch8+)"
+ },
+ {
+  "id": 136,
+  "name": "Space Ranger",
+  "img": "/cards/qb-136.jpg",
+  "location": "Gold Saucer GP Exchange (Ch8+)"
+ },
+ {
+  "id": 137,
+  "name": "Haunted Hotel",
+  "img": "/cards/qb-137.jpg",
+  "location": "Gold Saucer GP Exchange (Ch8+)"
+ },
+ {
+  "id": 138,
+  "name": "Skywheel",
+  "img": "/cards/qb-138.jpg",
+  "location": "Gold Saucer GP Exchange (Ch8+)"
+ },
+ {
+  "id": 139,
+  "name": "Loveless",
+  "img": "/cards/qb-139.jpg",
+  "location": "Gold Saucer GP Exchange (Ch8+)"
+ },
+ {
+  "id": 140,
+  "name": "Saucer Squad",
+  "img": "/cards/qb-140.jpg",
+  "location": "Gold Saucer GP Exchange (Ch8+)"
+ },
+ {
+  "id": 141,
+  "name": "Dio",
+  "img": "/cards/qb-141.jpg",
+  "location": "Gold Saucer GP Exchange (Ch8+)"
+ },
+ {
+  "id": 142,
+  "name": "Ultimate Party Animal",
+  "img": "/cards/qb-142.jpg",
+  "location": "Side Mission \"Can't Stop Won't Stop\""
+ },
+ {
+  "id": 143,
+  "name": "Sephiroth",
+  "img": "/cards/qb-143.jpg",
+  "location": "Gold Saucer 'Boot Camp' Challenge (Ch9)"
+ },
+ {
+  "id": 144,
+  "name": "Emerald Witch",
+  "img": "/cards/qb-144.jpg",
+  "location": "Defeat Vincent in Nibelheim (Ch12)"
+ },
+ {
+  "id": 145,
+  "name": "Shadowblood Queen",
+  "img": "/cards/qb-145.jpg",
+  "location": "Defeat Shadowblood Queen (Ch12)"
+ }
+]
