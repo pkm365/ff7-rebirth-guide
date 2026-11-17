@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T13:16:44+08:00",
+ "updated_at": "2026-11-18T07:16:13+08:00",
  "steamid": "76561198289655315",
  "persona": "FINAL FANTASY VII REBIRTH",
  "playtime_minutes": 448,
@@ -118,12 +118,7 @@
  ],
  "trading_cards": {
   "total": 8,
-  "owned": [
-   "Barret Wallace",
-   "FINAL FANTASY VII REBIRTH",
-   "Sephiroth",
-   "Tifa Lockhart"
-  ],
-  "inventory_ok": true
+  "owned": [],
+  "inventory_ok": false
  }
 }
